@@ -15,7 +15,24 @@ This Privacy Policy explains what data we collect, how we use it, and your right
 ---
 
 ## 2. 我们收集的数据 / Data We Collect  
-- 邮箱地址 (Email address)  
+本应用本身不会收集、存储或共享任何个人数据。
+
+在应用分发、安装或运行过程中，Google Play 或 Android 系统
+可能会以匿名方式自动收集部分技术性和统计性数据，
+用于应用性能分析、稳定性监测和安全目的。
+这些数据不由本应用访问、存储或控制。
+
+This app itself does not collect, store, or share any personal data.
+
+During app distribution, installation, or usage, Google Play or the
+Android system may automatically collect certain anonymous technical
+and statistical data for performance analysis, stability monitoring,
+and security purposes. Such data is not accessed, stored, or controlled
+by this app.
+
+
+可能由 Google 收集的数据 / Data Possibly Collected by Google
+-  邮箱地址 / Email address 
 - 设备信息 (Device info: model, OS version)  
 - 应用使用数据 (App usage data: logs, preferences)  
 - 位置信息（仅在您开启时）(Location data, only if enabled)  
